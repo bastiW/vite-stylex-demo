@@ -10,16 +10,17 @@
     "test": "tsx --test test/*.test.ts"
   },
   "dependencies": {
-    "@stylexjs/stylex": "^0.3.0",
+    "@stylexjs/stylex": "^0.4.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@types/react": "^18.2.37",
-    "@types/react-dom": "^18.2.15",
-    "@vitejs/plugin-react": "^4.2.0",
-    "tsx": "^4.6.2",
-    "typescript": "^5.2.2",
+    "@types/react": "^18.2.45",
+    "@types/react-dom": "^18.2.18",
+    "@vitejs/plugin-react": "^4.2.1",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3",
     "vite": "^4.5.1",
+    "vite-plugin-stylex": "^0.4.1"
   }
 }
